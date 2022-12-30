@@ -1,0 +1,211 @@
+continent,location,population,highest_infected_count,highest_death_count,pct_population_infected,pct_infected_dead
+"North America","United States","331002647,00",32346971,576232,9.772,1.781
+Asia,India,"1380004385,00",19164969,211853,1.389,1.105
+"South America",Brazil,"212559409,00",14659011,403781,6.896,2.754
+Europe,France,"68147687,00",5677835,104675,8.332,1.844
+Asia,Turkey,"84339067,00",4820591,40131,5.716,0.832
+Europe,Russia,"145934460,00",4750755,108290,3.255,2.279
+Europe,"United Kingdom","67886004,00",4432246,127775,6.529,2.883
+Europe,Italy,"60461828,00",4022653,120807,6.653,3.003
+Europe,Spain,"46754783,00",3524077,78216,7.537,2.219
+Europe,Germany,"83783945,00",3405365,83097,4.064,2.44
+"South America",Argentina,"45195777,00",2977363,63865,6.588,2.145
+"South America",Colombia,"50882884,00",2859724,73720,5.62,2.578
+Europe,Poland,"37846605,00",2792142,67502,7.378,2.418
+Asia,Iran,"83992953,00",2499077,71758,2.975,2.871
+"North America",Mexico,"128932753,00",2344755,216907,1.819,9.251
+Europe,Ukraine,"43733759,00",2124070,45923,4.857,2.162
+"South America",Peru,"32971846,00",1799445,61477,5.458,3.416
+Asia,Indonesia,"273523621,00",1668368,45521,0.61,2.728
+Europe,Czechia,"10708982,00",1630758,29267,15.228,1.795
+Africa,"South Africa","59308690,00",1581210,54350,2.666,3.437
+Europe,Netherlands,"17134873,00",1522973,17398,8.888,1.142
+"North America",Canada,"37742157,00",1228367,24220,3.255,1.972
+"South America",Chile,"19116209,00",1198245,26353,6.268,2.199
+Asia,Iraq,"40222503,00",1065199,15465,2.648,1.452
+Europe,Romania,"19237682,00",1055265,28109,5.485,2.664
+Asia,Philippines,"109581085,00",1037460,17234,0.947,1.661
+Europe,Belgium,"11589616,00",990229,24230,8.544,2.447
+Europe,Sweden,"10099270,00",973604,14048,9.64,1.443
+Asia,Israel,"8655541,00",838481,6363,9.687,0.759
+Europe,Portugal,"10196707,00",836493,16974,8.204,2.029
+Asia,Pakistan,"220892331,00",825519,17957,0.374,2.175
+Europe,Hungary,"9660350,00",779348,27540,8.067,3.534
+Asia,Bangladesh,"164689383,00",759132,11450,0.461,1.508
+Asia,Jordan,"10203140,00",711373,8836,6.972,1.242
+Europe,Serbia,"6804596,00",689557,6362,10.134,0.923
+Europe,Switzerland,"8654618,00",659974,10632,7.626,1.611
+Europe,Austria,"9006400,00",618870,10205,6.871,1.649
+Asia,Japan,"126476458,00",593264,10199,0.469,1.719
+Asia,Lebanon,"6825442,00",526578,7278,7.715,1.382
+Asia,"United Arab Emirates","9890400,00",520236,1587,5.26,0.305
+Africa,Morocco,"36910558,00",511249,9023,1.385,1.765
+Asia,"Saudi Arabia","34813867,00",417363,6957,1.199,1.667
+Asia,Malaysia,"32365998,00",408713,1506,1.263,0.368
+Europe,Bulgaria,"6948445,00",404380,16399,5.82,4.055
+Europe,Slovakia,"5459643,00",382211,11684,7.001,3.057
+"South America",Ecuador,"17643060,00",381862,18631,2.164,4.879
+Asia,Kazakhstan,"18776707,00",375539,3334,2,0.888
+"North America",Panama,"4314768,00",364576,6232,8.449,1.709
+Europe,Belarus,"9449321,00",358738,2542,3.796,0.709
+Europe,Greece,"10423056,00",345033,10381,3.31,3.009
+Europe,Croatia,"4105268,00",332183,7081,8.092,2.132
+Asia,Nepal,"29136808,00",323187,3279,1.109,1.015
+Asia,Azerbaijan,"10139175,00",319109,4517,3.147,1.416
+Asia,Georgia,"3989175,00",310310,4110,7.779,1.324
+Africa,Tunisia,"11818618,00",309119,10722,2.616,3.469
+"South America",Bolivia,"11673029,00",303732,12951,2.602,4.264
+Asia,Palestine,"5101416,00",296462,3249,5.811,1.096
+"South America",Paraguay,"7132530,00",279077,6385,3.913,2.288
+Asia,Kuwait,"4270563,00",273991,1563,6.416,0.57
+"North America","Dominican Republic","10847904,00",266561,3480,2.457,1.306
+Africa,Ethiopia,"114963583,00",257442,3688,0.224,1.433
+Europe,Denmark,"5792203,00",251249,2484,4.338,0.989
+"North America","Costa Rica","5094114,00",250991,3231,4.927,1.287
+Europe,Moldova,"4033963,00",250837,5812,6.218,2.317
+Europe,Ireland,"4937796,00",248870,4903,5.04,1.97
+Europe,Lithuania,"2722291,00",247269,3923,9.083,1.587
+Europe,Slovenia,"2078932,00",240292,4250,11.558,1.769
+"North America",Guatemala,"17915567,00",227671,7524,1.271,3.305
+Africa,Egypt,"102334403,00",227552,13339,0.222,5.862
+Asia,Armenia,"2963234,00",216064,4108,7.291,1.901
+"North America",Honduras,"9904608,00",212333,5281,2.144,2.487
+Asia,Qatar,"2881060,00",205652,458,7.138,0.223
+Europe,"Bosnia and Herzegovina","3280815,00",198461,8551,6.049,4.309
+"South America",Uruguay,"3473727,00",198428,2616,5.712,1.318
+"South America",Venezuela,"28435943,00",197683,2136,0.695,1.081
+Asia,Oman,"5106622,00",193253,2010,3.784,1.04
+Africa,Libya,"6871287,00",177508,3029,2.583,1.706
+Asia,Bahrain,"1701583,00",176934,646,10.398,0.365
+Africa,Nigeria,"206139587,00",165110,2063,0.08,1.249
+Africa,Kenya,"53771300,00",159318,2724,0.296,1.71
+Europe,"North Macedonia","2083380,00",152367,4855,7.313,3.186
+Asia,Myanmar,"54409794,00",142817,3209,0.262,2.247
+Europe,Albania,"2877800,00",131085,2394,4.555,1.826
+Asia,"South Korea","51269183,00",122634,1831,0.239,1.493
+Africa,Algeria,"43851043,00",122108,3253,0.278,2.664
+Europe,Estonia,"1326539,00",122019,1161,9.198,0.951
+Europe,Latvia,"1886202,00",118558,2131,6.286,1.797
+Europe,Norway,"5421242,00",112970,756,2.084,0.669
+Asia,"Sri Lanka","21413250,00",108146,678,0.505,0.627
+"North America",Cuba,"11326616,00",106707,644,0.942,0.604
+Europe,Kosovo,"1932774,00",103638,2134,5.362,2.059
+Asia,China,"1439323774,00",102494,4845,0.007,4.727
+Europe,Montenegro,"628062,00",97389,1495,15.506,1.535
+Asia,Kyrgyzstan,"6524191,00",95275,1604,1.46,1.684
+Africa,Ghana,"31072945,00",92562,779,0.298,0.842
+Africa,Zambia,"18383956,00",91586,1251,0.498,1.366
+Asia,Uzbekistan,"33469199,00",90808,649,0.271,0.715
+Europe,Finland,"5540718,00",86808,914,1.567,1.053
+Africa,Cameroon,"26545864,00",72250,1107,0.272,1.532
+Africa,Mozambique,"31255435,00",69917,814,0.224,1.164
+"North America","El Salvador","6486201,00",69198,2124,1.067,3.069
+Europe,Luxembourg,"625976,00",67205,796,10.736,1.184
+Europe,Cyprus,"875899,00",65233,308,7.448,0.472
+Asia,Thailand,"69799978,00",65153,203,0.093,0.312
+Asia,Singapore,"5850343,00",61145,30,1.045,0.049
+Asia,Afghanistan,"38928341,00",59745,2625,0.153,4.394
+Africa,Namibia,"2540916,00",48351,642,1.903,1.328
+Africa,Botswana,"2351625,00",46934,712,1.996,1.517
+Africa,"Cote d'Ivoire","26378275,00",46036,286,0.175,0.621
+"North America",Jamaica,"2961161,00",45578,778,1.539,1.707
+Africa,Uganda,"45741000,00",41866,342,0.092,0.817
+Africa,Senegal,"16743930,00",40344,1107,0.241,2.744
+Africa,Zimbabwe,"14862927,00",38257,1567,0.257,4.096
+Asia,Mongolia,"3278292,00",37285,115,1.137,0.308
+Africa,Madagascar,"27691019,00",37014,643,0.134,1.737
+Africa,Malawi,"19129955,00",34078,1148,0.178,3.369
+Africa,Sudan,"43849269,00",33944,2349,0.077,6.92
+Europe,Malta,"441539,00",30292,413,6.861,1.363
+Africa,"Democratic Republic of Congo","89561404,00",29853,766,0.033,2.566
+Asia,Maldives,"540542,00",29835,73,5.519,0.245
+Oceania,Australia,"25499881,00",29811,910,0.117,3.053
+Africa,Angola,"32866268,00",26652,596,0.081,2.236
+Africa,Rwanda,"12952209,00",25116,335,0.194,1.334
+Africa,"Cape Verde","555988,00",23882,217,4.295,0.909
+Africa,Gabon,"2225728,00",23075,139,1.037,0.602
+Asia,Syria,"17500657,00",22733,1592,0.13,7.003
+Africa,Guinea,"13132792,00",22215,144,0.169,0.648
+Africa,Eswatini,"1160164,00",18458,671,1.591,3.635
+Africa,Mauritania,"4649660,00",18402,455,0.396,2.473
+Africa,Somalia,"15893219,00",13915,713,0.088,5.124
+Africa,Mali,"20250834,00",13858,484,0.068,3.493
+Asia,Cambodia,"16718971,00",13402,93,0.08,0.694
+Africa,"Burkina Faso","20903278,00",13310,157,0.064,1.18
+Asia,Tajikistan,"9537642,00",13308,90,0.14,0.676
+"South America",Guyana,"786559,00",13283,296,1.689,2.228
+Europe,Andorra,"77265,00",13232,125,17.125,0.945
+"North America",Haiti,"11402533,00",13056,254,0.115,1.945
+Africa,Togo,"8278737,00",12967,123,0.157,0.949
+"North America",Belize,"397621,00",12668,323,3.186,2.55
+Africa,Djibouti,"988002,00",11100,143,1.123,1.288
+Oceania,"Papua New Guinea","8947027,00",10997,107,0.123,0.973
+"North America","Trinidad and Tobago","1399491,00",10824,169,0.773,1.561
+Africa,Lesotho,"2142252,00",10731,316,0.501,2.945
+Africa,Congo,"5518092,00",10678,144,0.194,1.349
+Africa,"South Sudan","11193729,00",10583,115,0.095,1.087
+"North America",Bahamas,"393248,00",10453,199,2.658,1.904
+"South America",Suriname,"586634,00",10363,204,1.767,1.969
+Africa,Benin,"12123198,00",7821,99,0.065,1.266
+Africa,"Equatorial Guinea","1402985,00",7694,112,0.548,1.456
+"North America",Nicaragua,"6624554,00",6898,182,0.104,2.638
+Europe,Iceland,"341250,00",6472,29,1.897,0.448
+Africa,"Central African Republic","4829764,00",6411,88,0.133,1.373
+Asia,Yemen,"29825968,00",6317,1226,0.021,19.408
+Africa,Gambia,"2416664,00",5898,174,0.244,2.95
+Africa,Seychelles,"98340,00",5873,28,5.972,0.477
+Africa,Niger,"24206636,00",5228,191,0.022,3.653
+Europe,"San Marino","33938,00",5066,90,14.927,1.777
+Africa,Chad,"16425859,00",4817,170,0.029,3.529
+"North America","Saint Lucia","183629,00",4552,74,2.479,1.626
+Africa,"Sierra Leone","7976985,00",4054,79,0.051,1.949
+Africa,Burundi,"11890781,00",3995,6,0.034,0.15
+"North America",Barbados,"287371,00",3855,44,1.341,1.141
+Africa,Comoros,"869595,00",3834,146,0.441,3.808
+Africa,Guinea-Bissau,"1967998,00",3734,67,0.19,1.794
+Africa,Eritrea,"3546427,00",3671,10,0.104,0.272
+Asia,Vietnam,"97338583,00",2928,35,0.003,1.195
+Europe,Liechtenstein,"38137,00",2926,57,7.672,1.948
+Oceania,"New Zealand","4822233,00",2613,26,0.054,0.995
+Europe,Monaco,"39244,00",2454,32,6.253,1.304
+Africa,"Sao Tome and Principe","219161,00",2302,35,1.05,1.52
+Asia,Timor,"1318442,00",2276,3,0.173,0.132
+Africa,Liberia,"5057677,00",2099,85,0.042,4.05
+"North America","Saint Vincent and the Grenadines","110947,00",1864,11,1.68,0.59
+"North America","Antigua and Barbuda","97928,00",1232,32,1.258,2.597
+Africa,Mauritius,"1271767,00",1209,17,0.095,1.406
+Asia,Taiwan,"23816775,00",1128,12,0.005,1.064
+Asia,Bhutan,"771612,00",1074,1,0.139,0.093
+Asia,Laos,"7275556,00",757,0,0.01,0
+Africa,Tanzania,"59734213,00",509,21,0.001,4.126
+Asia,Brunei,"437483,00",224,3,0.051,1.339
+"North America",Dominica,"71991,00",174,0,0.242,0
+"North America",Grenada,"112519,00",160,1,0.142,0.625
+Oceania,Fiji,"896444,00",117,2,0.013,1.709
+"North America","Saint Kitts and Nevis","53192,00",44,0,0.083,0
+Europe,Vatican,"809,00",27,0,3.337,0
+Oceania,"Solomon Islands","686878,00",20,0,0.003,0
+Oceania,"Marshall Islands","59194,00",4,0,0.007,0
+Oceania,Vanuatu,"307150,00",4,1,0.001,25
+Oceania,Samoa,"198410,00",3,0,0.002,0
+Oceania,"Micronesia (country)","115021,00",1,0,0.001,0
+"North America",Anguilla,"15002,00",0,0,0,NULL
+"North America",Aruba,"106766,00",0,0,0,NULL
+"North America",Bermuda,"62273,00",0,0,0,NULL
+"North America","Cayman Islands","65720,00",0,0,0,NULL
+"North America",Curacao,"164100,00",0,0,0,NULL
+Europe,"Faeroe Islands","48865,00",0,0,0,NULL
+"South America","Falkland Islands","3483,00",0,0,0,NULL
+Europe,Gibraltar,"33691,00",0,0,0,NULL
+"North America",Greenland,"56772,00",0,0,0,NULL
+Europe,Guernsey,"67052,00",0,0,0,NULL
+Asia,"Hong Kong","7496988,00",0,0,0,NULL
+Europe,"Isle of Man","85032,00",0,0,0,NULL
+Europe,Jersey,"101073,00",0,0,0,NULL
+Asia,Macao,"649342,00",0,0,0,NULL
+"North America",Montserrat,"4999,00",0,0,0,NULL
+Oceania,Nauru,"10834,00",0,0,0,NULL
+Asia,"Northern Cyprus",,0,0,NULL,NULL
+Africa,"Saint Helena","6071,00",0,0,0,NULL
+Oceania,Tonga,"105697,00",0,0,0,NULL
+"North America","Turks and Caicos Islands","38718,00",0,0,0,NULL
