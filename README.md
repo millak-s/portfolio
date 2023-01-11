@@ -1,2 +1,2 @@
-# portfolio
-Repository containing portfolio projects
+# Porfolio
+Repository containing data analysis projects.
